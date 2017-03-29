@@ -10,8 +10,8 @@
 
   <scm>
     <url>https://github.com/ganeshs-sutar/maven-test-repo</url>
-    <connection>scm:git:git://github.com/ganeshs-sutart/maven-test-repo.git</connection>
-    <developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>
+    <connection>scm:git:git://github.com/ganeshs-sutar/maven-test-repo.git</connection>
+    <developerConnection>scm:git:git@github.com:ganeshs-sutar/github-maven-example.git</developerConnection>
   </scm>
 
 
