@@ -9,9 +9,9 @@
   <url>http://maven.apache.org</url>
 
   <scm>
-    <url>https://github.com/ganeshs-sutar/maven-test-repo</url>
-    <connection>scm:git:git://github.com/ganeshs-sutar/maven-test-repo.git</connection>
-    <developerConnection>scm:git:git@github.com:ganeshs-sutar/github-maven-example.git</developerConnection>
+    <url>https://github.com/ganeshs-ezdi/maven-test-repo</url>
+    <connection>scm:git:git://github.com/ganeshs-ezdi/maven-test-repo.git</connection>
+    <developerConnection>scm:git:git@github.com:ganeshs-ezdi/github-maven-example.git</developerConnection>
   </scm>
 
 
