@@ -11,7 +11,7 @@
   <scm>
     <url>https://github.com/ganeshs-ezdi/maven-test-repo</url>
     <connection>scm:git:git://github.com/ganeshs-ezdi/maven-test-repo.git</connection>
-    <developerConnection>scm:git:git@github.com:ganeshs-ezdi/github-maven-example.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:ganeshs-ezdi/maven-test-repo.git</developerConnection>
   </scm>
 
 
