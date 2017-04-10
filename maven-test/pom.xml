@@ -3,13 +3,13 @@
   <groupId>com.ezdi.examples</groupId>
   <artifactId>maven-test</artifactId>
   <packaging>jar</packaging>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <name>maven-test</name>
   <url>http://maven.apache.org</url>
 
   <scm>
     <connection>scm:git:git@github.com:ganeshs-ezdi/maven-test-repo.git</connection>
-    <tag>HEAD</tag>
+    <tag>maven-test-1.1</tag>
   </scm>
 
 
