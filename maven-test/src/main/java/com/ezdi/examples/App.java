@@ -2,7 +2,7 @@ package com.ezdi.examples;
 
 /**
  * Hello world!
- *
+ * Added a new commnent for testing maven release
  */
 public class App 
 {
